@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Discord--5865F2?style=for-the-badge&logo=discord&logoColor=white&label=rayne.py%20%7C%20ryan__097" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord--5865F2?style=for-the-badge&logo=discord&logoColor=white&label=rayne.py%20%7C%20ryan_097" alt="Discord"/>
 </a>
   <a href="mailto:ryan.saputra20806@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
