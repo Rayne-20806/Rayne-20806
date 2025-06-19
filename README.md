@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm RYAN MUHAMAD SAPUTRA</h1>
+<h3 align="center">Aspiring AI Engineer | Informatics Engineering Student at Telkom University Purwokerto</h3>
 
-<!--
-**Rayne-20806/Rayne-20806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍🎓 About Me
+- 🎓 I'm currently pursuing a Bachelor's degree in **Informatics** at **Telkom University Purwokerto**
+- 💻 I enjoy coding with **Python**, **Golang**, **SQL**, and working on **Web Development**
+- 🤖 Highly interested in becoming a professional **AI Engineer**
+- 🔍 Currently learning and experimenting with **Artificial Intelligence**, especially **Machine Learning** and **Automation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Devices & Tools I Use
+- 💻 Laptop: MSI (RTX 3050 + CORE i5) and Asus(CORE i5)
+- 📱 Phone: Xiaomi
+- 🧰 Tools:
+  - Visual Studio Code
+  - Google Colab
+  - Git & GitHub
+  - Jupyter Notebook
+  - Capcut and Alight Motion (Video Editing)
+  - Figma (UI/UX design)
+  - MySQL & MySQL WorkBench
+  - Canva (untuk presentasi dan mind mapping)
+  - Python Libraries: NumPy, Pandas, scikit-learn, ETC
+  - Microsoft App
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.instagram.com/yanx_209?igsh=MTRpNDUydDJiMDh4cg==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/6282179630306" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ryanmuhamad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Discord--5865F2?style=for-the-badge&logo=discord&logoColor=white&label=rayne.py%20%7C%20ryan__097" alt="Discord"/>
+</a>
+  <a href="mailto:ryan.saputra20806@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+
