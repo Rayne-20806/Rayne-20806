@@ -22,7 +22,7 @@
   - Capcut and Alight Motion (Video Editing)
   - Figma (UI/UX design)
   - MySQL & MySQL WorkBench
-  - Canva (untuk presentasi dan mind mapping)
+  - Canva (presentation and mind mapping)
   - Python Libraries: NumPy, Pandas, scikit-learn, ETC
   - Microsoft App
 
