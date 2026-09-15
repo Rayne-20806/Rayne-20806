@@ -84,7 +84,19 @@ I enjoy turning data into insights, building intelligent systems, and continuous
 
 > Data analysis, machine learning, and AI projects I'm building and exploring.
 
+**🚧 Projects coming soon...**
+
 <!-- Add featured repositories here -->
+
+---
+
+### 🏆 Certifications & Training
+
+> Professional certifications and training related to Data Science, Data Analytics, AI, and Machine Learning.
+
+**🚧 Certifications coming soon...**
+
+<!-- Certificates will be added here -->
 
 ---
 
